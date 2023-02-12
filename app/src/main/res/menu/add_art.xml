@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_art_item"
+        android:title="Add Art" />
+</menu>
+<!--1.yolu bu xml direk res sağ tıklayıp new-> Android Resource File diyip adını verip resoruce typeinden Menu seçilerek açılır tabi menu klasör içinde açılcaktır
+yada
+2.yolu klasör açıp xml açmak istersekte.res sağ tıklayıp new-> Directory diyip orda menu girilir enterlenir menu klasörü açılmış olur ve xmlide menu sağ tıklayıp new-> Menu Resource File diyip isim verilir tmm denir hatta klasör açılmadan olan penceredir kontrol edebilirsiniz
+burayı 3nokta seçenek için menu için yaptık
+-->
